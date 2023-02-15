@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Red Thinker';
+    src: url("RedThinker-Bold.eot?#iefix") format("embedded-opentype"),
+        url("RedThinker-Bold.woff2") format("woff2"),
+        url("RedThinker-Bold.woff") format("woff"),
+        url("RedThinker-Bold.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
